@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cantor-expansion-visual-tool/static/css/main.dda85e9a.css",
+    "main.js": "/cantor-expansion-visual-tool/static/js/main.80502fcd.js",
+    "index.html": "/cantor-expansion-visual-tool/index.html",
+    "main.dda85e9a.css.map": "/cantor-expansion-visual-tool/static/css/main.dda85e9a.css.map",
+    "main.80502fcd.js.map": "/cantor-expansion-visual-tool/static/js/main.80502fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda85e9a.css",
+    "static/js/main.80502fcd.js"
+  ]
+}
